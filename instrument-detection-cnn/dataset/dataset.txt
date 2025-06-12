@@ -1,0 +1,5 @@
+# Musical instrument detection > 2024-05-14 7:46am
+https://universe.roboflow.com/music-15t8d/musical-instrument-detection-lpgmd
+
+Provided by a Roboflow user
+License: CC BY 4.0
