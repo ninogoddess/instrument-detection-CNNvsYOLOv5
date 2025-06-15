@@ -276,7 +276,7 @@ A continuación se comparan los resultados de ambos modelos utilizando las misma
 | Precisión | 0.16 | **0.855** |
 | Recall    | 0.18 | **0.868** |
 | F1-score  | 0.16 | **0.82**  |
-| mAP\@0.5  | —    | **0.551** |
+| mAP\@0.5  | N/A  | **0.551** |
 
 
 #### Análisis
