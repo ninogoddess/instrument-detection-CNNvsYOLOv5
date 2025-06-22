@@ -1,7 +1,7 @@
 # Detección de instrumentos musicales mediante dos modelos de aprendizaje
-- Celso Farías - Matías Isidín - Roberto López
+- Celso Farías - Matías Isidín - Bastián Soto
 - Aprendizaje de Máquinas NRC 8308
-- Prof: Matías Vargas
+- Profesor: Matías Vargas
 ## Caso de Estudio: Gestión de Inventario en Entornos Musicales Profesionales
 
 En estudios de grabación, salas de ensayo y orquestas profesionales, la gestión del inventario de instrumentos musicales es una tarea crítica pero comúnmente descuidada. El caos organizativo, la falta de trazabilidad y el error humano provocan pérdidas de instrumentos, mal uso del equipamiento y tiempos muertos valiosos para músicos e ingenieros de sonido.
