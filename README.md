@@ -158,7 +158,6 @@ Se diseñó una red neuronal convolucional desde cero utilizando PyTorch, enfoca
       ↓
 [Output: 11 probabilidades]
 
-![CNN](./diagramas/cnn_diagrama.png)
 
 ##### Justificación del diseño:
 
@@ -198,8 +197,6 @@ Se utilizó YOLOv5s, una red especializada en detección de objetos, entrenada c
       ↓
 [Output: Bounding boxes + clases + confianza]
 
-
-![YOLOv5](./diagramas/yolov5_diagrama.png)
 
 ## Preprocesamiento de Imágenes
 
